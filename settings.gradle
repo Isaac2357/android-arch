@@ -1,2 +1,2 @@
-rootProject.name = "DaggerProject"
+rootProject.name = "android-arch"
 include ':app'
